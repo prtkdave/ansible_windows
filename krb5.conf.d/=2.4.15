@@ -1,0 +1,16 @@
+Collecting pyldap
+  Downloading https://files.pythonhosted.org/packages/45/53/4db080800f3c70f16c0a292a7f6b7c7d30f3626897be6a70fd2fcf33d25d/pyldap-3.0.0.tar.gz
+Collecting python-ldap>=3.0.0b1 (from pyldap)
+  Downloading https://files.pythonhosted.org/packages/7f/1c/28d721dff2fcd2fef9d55b40df63a00be26ec8a11e8c6fc612ae642f9cfd/python-ldap-3.1.0.tar.gz (366kB)
+Collecting pyasn1>=0.3.7 (from python-ldap>=3.0.0b1->pyldap)
+  Downloading https://files.pythonhosted.org/packages/a0/70/2c27740f08e477499ce19eefe05dbcae6f19fdc49e9e82ce4768be0643b9/pyasn1-0.4.3-py2.py3-none-any.whl (72kB)
+Collecting pyasn1_modules>=0.1.5 (from python-ldap>=3.0.0b1->pyldap)
+  Downloading https://files.pythonhosted.org/packages/e9/51/bcd96bf6231d4b2cc5e023c511bee86637ba375c44a6f9d1b4b7ad1ce4b9/pyasn1_modules-0.2.1-py2.py3-none-any.whl (60kB)
+Installing collected packages: pyasn1, pyasn1-modules, python-ldap, pyldap
+  Found existing installation: pyasn1 0.1.9
+    Uninstalling pyasn1-0.1.9:
+      Successfully uninstalled pyasn1-0.1.9
+  Found existing installation: pyasn1-modules 0.0.8
+    Uninstalling pyasn1-modules-0.0.8:
+      Successfully uninstalled pyasn1-modules-0.0.8
+  Found existing installation: python-ldap 2.4.15
